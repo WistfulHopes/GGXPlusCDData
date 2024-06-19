@@ -1,0 +1,2 @@
+# GGXPlusCDData
+A tool to exstract the data from Guilty Gear X Plus (Korean)'s CDDATA.BIN file. Could be expanded on to extract other Guilty Gear games' CDDATA.BIN files, but currently the filelist is hardcoded, and filenames are usually not left in the game.
